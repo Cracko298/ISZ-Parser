@@ -16,6 +16,12 @@
 
 ![2023-09-10 15-31-24](https://github.com/Cracko298/ISZ-Parser/assets/78656905/cecb0196-5454-4745-9d65-5a40461d2048)
 
+## Planned Updates:
+- Get Full Inventory Information.
+- Get Coordinates, & Vehicle Coordinates.
+- Convert JSON Data back into ISZ-3DS Save-Data.
+
+
 ## Building:
 ### Python Script:
 ```
