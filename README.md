@@ -1,5 +1,6 @@
 # ISZ-Parser
 - Parses Ice station Z Save-Data into The *.json Human Readable Format.
+- Limited Functionality as of **09/10/2023**.
 
 # Downloads:
 - Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp).
