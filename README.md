@@ -15,6 +15,8 @@
 
 ## Features:
 - Take Save-Data & Turn it Into JSON.
+- **Need Help Using It? I have a [Video on YouTube](https://youtu.be/msQ_s1OdDCo) to help!**
+
 
 ![2023-09-10 15-31-24](https://github.com/Cracko298/ISZ-Parser/assets/78656905/cecb0196-5454-4745-9d65-5a40461d2048)
 
