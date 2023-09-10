@@ -2,8 +2,9 @@
 - Parses Ice station Z Save-Data into The *.json Human Readable Format.
 
 # Downloads:
-- Download Source [Here]().
-- Download Compiled [Here]().
+- Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp).
+- Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.py).
+- Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.exe).
 
 ## Usage:
 - Drag and drop Decrypted ISZ-3DS Save-Files.
