@@ -1,2 +1,2 @@
 # ISZ-Parser
-Parse ISZ-3DS Save-Data into a Human Readable Format (JSON).
+- Parses Ice station Z Save-Data into The .JSON Readable Format.
