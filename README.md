@@ -100,3 +100,11 @@
     }
 ]
 ```
+```py
+# Dictionary for Python (next update).
+car_dict = {
+    0x23AF: "Greybase Helicopter",
+    0x3D47: "Oil-Rig Helicopter",
+    0x1347: "3 Red Houses"
+}
+```
