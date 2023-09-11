@@ -65,7 +65,7 @@
         "Data0 Slot #1 Information": {
             "Slot Number": 1,
             "Item Name": "Tranquilizer Gun",
-            "Item Type": Weapon,
+            "Item Type": "Weapon",
             "Durability": 28632,
             "Duplicated": 999
         },
