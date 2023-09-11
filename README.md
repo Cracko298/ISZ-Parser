@@ -1,6 +1,6 @@
 # ISZ-Parser
 - Parses Ice station Z Save-Data into The *.json Human Readable & Widely Used Data Format.
-- Allows for Hundreads of Programming Languages and Game Engines to Ensure Compatibility with ISZ on 'Nintendo 3DS'.
+- Allows for Hundreads of Programming Languages and Game Engines to Ensure Compatibility with ISZ on The 3DS.
 - Basic Functionality Available as of **09/10/2023**.
 
 # Downloads:
@@ -43,51 +43,59 @@
         "Data0 File Information": {
             "Game Opened": true,
             "Level Saved": true,
-            "Four-Byte Time Hash": 1302141361,
-            "Converted Time Hash": "05/04 21:56"
+            "Four-Byte Time Hash": 801446425,
+            "Converted Time Hash": "24/05 20:00"
         },
         "Data0 Player Information": {
-            "Current Health": 255,
-            "Current Hunger": 254,
-            "Current Thirst": 253,
-            "Current Charge": 250,
-            "Current Temps": 9999.0,
-            "Inverted Temp": 5.520272367764256e-39
+            "Current Health": 52,
+            "Current Hunger": 94,
+            "Current Thirst": 91,
+            "Current Charge": 76,
+            "X Coordinates": 3301529424,
+            "Y Coordinates": 1156088072,
+            "Z Coordinates": 1106346423,
+            "X/Y/Z Coordinates": [
+                3301529424,
+                1156088072,
+                1106346423
+            ],
+            "Current Temps": 3.391648054122925,
+            "Inverted Temp": -144.3486328125
         },
         "Data0 Slot #1 Information": {
             "Slot Number": 1,
-            "Item Name": null,
-            "Item Type": "Invalid Item ID.",
-            "Durability": 490,
-            "Duplicated": 1
+            "Item Name": "Tranquilizer Gun",
+            "Item Type": Weapon,
+            "Durability": 28632,
+            "Duplicated": 999
         },
         "Data0 Slot #2 Information": {
             "Slot Number": 2,
-            "Item Name": "Tent",
-            "Item Type": "Miscellaneous",
-            "Durability": 50,
-            "Duplicated": 1
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
         },
         "Data0 Slot #3 Information": {
             "Slot Number": 3,
-            "Item Name": "Tranquilizer Ammo",
-            "Item Type": "Ammunition",
+            "Item Name": "Empty",
+            "Item Type": null,
             "Durability": 100,
-            "Duplicated": 1
+            "Duplicated": 0
         },
         "Data0 Slot #4 Information": {
             "Slot Number": 4,
-            "Item Name": "Tranquilizer Gun",
-            "Item Type": "Weapon",
-            "Durability": 96,
-            "Duplicated": 9
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
         },
         "Data0 Slot #5 Information": {
             "Slot Number": 5,
-            "Item Name": "Arctic Handgun",
-            "Item Type": "Weapon",
-            "Durability": 200,
-            "Duplicated": 1
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
         }
     }
 ]
