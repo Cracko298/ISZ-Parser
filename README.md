@@ -1,7 +1,7 @@
 # ISZ-Parser
 - Parses Ice station Z Save-Data into The *.json Human Readable & Widely Used Data Format.
 - Allows for Hundreads of Programming Languages and Game Engines to Ensure Compatibility with ISZ-3DS.
-- Easy Edits to and From ISZ-3DS Save-Data (Planned Feature Soon).
+- Easy Edits to and From ISZ-3DS Save-Data (Planned Feature Soon **Version v6 Plan**).
 - Basic Functionality Available as of **09/10/2023**.
 
 # Downloads:
