@@ -43,24 +43,32 @@
         "Data0 File Information": {
             "Game Opened": true,
             "Level Saved": true,
-            "Four-Byte Time Hash": 801446425,
-            "Converted Time Hash": "24/05 20:00"
+            "Four-Byte Time Hash": 2800088088,
+            "Converted Time Hash": "23/09 06:14"
         },
         "Data0 Player Information": {
-            "Current Health": 52,
-            "Current Hunger": 94,
-            "Current Thirst": 91,
-            "Current Charge": 76,
-            "X Coordinates": 3301529424,
-            "Y Coordinates": 1156088072,
-            "Z Coordinates": 1106346423,
-            "X/Y/Z Coordinates": [
-                3301529424,
-                1156088072,
-                1106346423
+            "Current Health": 100,
+            "Current Hunger": 100,
+            "Current Thirst": 100,
+            "Current Charge": 100,
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
             ],
-            "Current Temps": 3.391648054122925,
-            "Inverted Temp": -144.3486328125
+            "X Coordinates": 3306952104,
+            "Y Coordinates": 1158947394,
+            "Z Coordinates": 1097213384,
+            "X/Y/Z Coordinates": [
+                3306952104,
+                1158947394,
+                1097213384
+            ],
+            "Current Temps": 3.4836926460266113,
+            "Inverted Temp": -524776636416.0
         },
         "Data0 Slot #1 Information": {
             "Slot Number": 1,
