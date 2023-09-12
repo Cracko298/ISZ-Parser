@@ -22,7 +22,7 @@
 
 ## Planned Updates:
 - Get Full Inventory Information.
-- Get Coordinates, & Vehicle Coordinates.
+- Get Vehicle Stats & Coordinates.
 - Convert JSON Data back into ISZ-3DS Save-Data.
 
 
