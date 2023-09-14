@@ -5,7 +5,7 @@
 - Basic Functionality Available as of **09/10/2023**.
 
 # Downloads:
-- Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v4/isz-parse.cpp) **(Not Kept Upto-Date)**.
+- Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp) **(Not Kept Upto-Date)**.
 - Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v4/isz-parse.py).
 - Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v4/isz-parse.exe).
 
