@@ -1,0 +1,587 @@
+[
+    {
+        "Data0 File Information": {
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 3036311106,
+            "Converted Time Hash": "19/03 07:45"
+        },
+        "Data0 Player Information": {
+            "Current Health": 255,
+            "Current Hunger": 87,
+            "Current Thirst": 80,
+            "Current Charge": 45,
+            "Days Passed": "NaN",
+            "Kilometers Traveled": "NaN",
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "X Coordinates": 3301280291,
+            "Y Coordinates": 1155592092,
+            "Z Coordinates": 1106351966,
+            "X/Y/Z Coordinates": [
+                3301280291,
+                1155592092,
+                1106351966
+            ],
+            "Current Temps": 2.5035226345062256,
+            "Inverted Temp": -1.1034368071705103e-05
+        },
+        "Data0 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Helicopter Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301800903,
+            "Y Coordinates": 1155716407,
+            "Z Coordinates": 1106754142,
+            "X/Y/Z Coordinates": [
+                3301800903,
+                1155716407,
+                1106754142
+            ]
+        },
+        "Data0 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Helicopter Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3293505470,
+            "Y Coordinates": 1145064653,
+            "Z Coordinates": 1106782978,
+            "X/Y/Z Coordinates": [
+                3293505470,
+                1145064653,
+                1106782978
+            ]
+        },
+        "Data0 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Helicopter Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3308847120,
+            "Y Coordinates": 1112039752,
+            "Z Coordinates": 1105566106,
+            "X/Y/Z Coordinates": [
+                3308847120,
+                1112039752,
+                1105566106
+            ]
+        },
+        "Data0 Snowcat #1 Information": {
+            "Helicopter Number": 4,
+            "Helicopter Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305928957,
+            "Y Coordinates": 1140157827,
+            "Z Coordinates": 1103660472,
+            "X/Y/Z Coordinates": [
+                3305928957,
+                1140157827,
+                1103660472
+            ]
+        },
+        "Data0 Snowcat #2 Information": {
+            "Helicopter Number": 5,
+            "Helicopter Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307160895,
+            "Y Coordinates": 1158793828,
+            "Z Coordinates": 1098430052,
+            "X/Y/Z Coordinates": [
+                3307160895,
+                1158793828,
+                1098430052
+            ]
+        },
+        "Data0 Snowplough #1 Information": {
+            "Helicopter Number": 6,
+            "Helicopter Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3303196623,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3303196623,
+                1074790400
+            ]
+        },
+        "Data0 Snowplough #2 Information": {
+            "Helicopter Number": 7,
+            "Helicopter Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3300006791,
+            "Y Coordinates": 1152708557,
+            "Z Coordinates": 1117342299,
+            "X/Y/Z Coordinates": [
+                3300006791,
+                1152708557,
+                1117342299
+            ]
+        },
+        "Data0 Snowmobile #1 Information": {
+            "Helicopter Number": 8,
+            "Helicopter Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297255292,
+            "Y Coordinates": 1152246593,
+            "Z Coordinates": 1115426807,
+            "X/Y/Z Coordinates": [
+                3297255292,
+                1152246593,
+                1115426807
+            ]
+        },
+        "Data0 Snowmobile #2 Information": {
+            "Helicopter Number": 9,
+            "Helicopter Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301280291,
+            "Y Coordinates": 1155592092,
+            "Z Coordinates": 1106351966,
+            "X/Y/Z Coordinates": [
+                3301280291,
+                1155592092,
+                1106351966
+            ]
+        },
+        "Data0 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data0 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data0 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data0 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data0 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        }
+    },
+    {
+        "Data1 File Information": {
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 4096098602,
+            "Converted Time Hash": "19/10 09:10"
+        },
+        "Data1 Player Information": {
+            "Current Health": 100,
+            "Current Hunger": 98,
+            "Current Thirst": 96,
+            "Current Charge": 92,
+            "Days Passed": "NaN",
+            "Kilometers Traveled": "NaN",
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "X Coordinates": 3306838712,
+            "Y Coordinates": 1158936330,
+            "Z Coordinates": 1097560204,
+            "X/Y/Z Coordinates": [
+                3306838712,
+                1158936330,
+                1097560204
+            ],
+            "Current Temps": 1.9799076318740845,
+            "Inverted Temp": -3.149761398985755e-21
+        },
+        "Data1 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Helicopter Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301852340,
+            "Y Coordinates": 1155747389,
+            "Z Coordinates": 1106385568,
+            "X/Y/Z Coordinates": [
+                3301852340,
+                1155747389,
+                1106385568
+            ]
+        },
+        "Data1 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Helicopter Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292614476,
+            "Y Coordinates": 1144550818,
+            "Z Coordinates": 1106897273,
+            "X/Y/Z Coordinates": [
+                3292614476,
+                1144550818,
+                1106897273
+            ]
+        },
+        "Data1 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Helicopter Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3308595868,
+            "Y Coordinates": 1107607421,
+            "Z Coordinates": 1077936128,
+            "X/Y/Z Coordinates": [
+                3308595868,
+                1107607421,
+                1077936128
+            ]
+        },
+        "Data1 Snowcat #1 Information": {
+            "Helicopter Number": 4,
+            "Helicopter Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305853993,
+            "Y Coordinates": 1139991806,
+            "Z Coordinates": 1104010543,
+            "X/Y/Z Coordinates": [
+                3305853993,
+                1139991806,
+                1104010543
+            ]
+        },
+        "Data1 Snowcat #2 Information": {
+            "Helicopter Number": 5,
+            "Helicopter Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3298332574,
+            "Y Coordinates": 1160469459,
+            "Z Coordinates": 1086165352,
+            "X/Y/Z Coordinates": [
+                3298332574,
+                1160469459,
+                1086165352
+            ]
+        },
+        "Data1 Snowplough #1 Information": {
+            "Helicopter Number": 6,
+            "Helicopter Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3303277339,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3303277339,
+                1074790400
+            ]
+        },
+        "Data1 Snowplough #2 Information": {
+            "Helicopter Number": 7,
+            "Helicopter Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307206021,
+            "Y Coordinates": 1158722626,
+            "Z Coordinates": 1098087662,
+            "X/Y/Z Coordinates": [
+                3307206021,
+                1158722626,
+                1098087662
+            ]
+        },
+        "Data1 Snowmobile #1 Information": {
+            "Helicopter Number": 8,
+            "Helicopter Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3280896197,
+            "Y Coordinates": 1141154906,
+            "Z Coordinates": 1100509348,
+            "X/Y/Z Coordinates": [
+                3280896197,
+                1141154906,
+                1100509348
+            ]
+        },
+        "Data1 Snowmobile #2 Information": {
+            "Helicopter Number": 9,
+            "Helicopter Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301764194,
+            "Y Coordinates": 1155813589,
+            "Z Coordinates": 1106363023,
+            "X/Y/Z Coordinates": [
+                3301764194,
+                1155813589,
+                1106363023
+            ]
+        },
+        "Data1 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data1 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data1 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data1 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data1 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        }
+    },
+    {
+        "Data2 File Information": {
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 1553366314,
+            "Converted Time Hash": "22/03 14:38"
+        },
+        "Data2 Player Information": {
+            "Current Health": 6,
+            "Current Hunger": 67,
+            "Current Thirst": 49,
+            "Current Charge": 0,
+            "Days Passed": "NaN",
+            "Kilometers Traveled": "NaN",
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "X Coordinates": 3306622934,
+            "Y Coordinates": 1152599096,
+            "Z Coordinates": 1110884384,
+            "X/Y/Z Coordinates": [
+                3306622934,
+                1152599096,
+                1110884384
+            ],
+            "Current Temps": 1.895214319229126,
+            "Inverted Temp": 1.392233640868572e+21
+        },
+        "Data2 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Helicopter Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301526151,
+            "Y Coordinates": 1156092477,
+            "Z Coordinates": 1106352538,
+            "X/Y/Z Coordinates": [
+                3301526151,
+                1156092477,
+                1106352538
+            ]
+        },
+        "Data2 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Helicopter Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292614476,
+            "Y Coordinates": 1144550818,
+            "Z Coordinates": 1106897273,
+            "X/Y/Z Coordinates": [
+                3292614476,
+                1144550818,
+                1106897273
+            ]
+        },
+        "Data2 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Helicopter Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3308839916,
+            "Y Coordinates": 1114892665,
+            "Z Coordinates": 1105566106,
+            "X/Y/Z Coordinates": [
+                3308839916,
+                1114892665,
+                1105566106
+            ]
+        },
+        "Data2 Snowcat #1 Information": {
+            "Helicopter Number": 4,
+            "Helicopter Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305854489,
+            "Y Coordinates": 1140336886,
+            "Z Coordinates": 1103963357,
+            "X/Y/Z Coordinates": [
+                3305854489,
+                1140336886,
+                1103963357
+            ]
+        },
+        "Data2 Snowcat #2 Information": {
+            "Helicopter Number": 5,
+            "Helicopter Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3298373747,
+            "Y Coordinates": 1160459842,
+            "Z Coordinates": 1084594586,
+            "X/Y/Z Coordinates": [
+                3298373747,
+                1160459842,
+                1084594586
+            ]
+        },
+        "Data2 Snowplough #1 Information": {
+            "Helicopter Number": 6,
+            "Helicopter Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3307197829,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3307197829,
+                1074790400
+            ]
+        },
+        "Data2 Snowplough #2 Information": {
+            "Helicopter Number": 7,
+            "Helicopter Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307587432,
+            "Y Coordinates": 1149664821,
+            "Z Coordinates": 1103617851,
+            "X/Y/Z Coordinates": [
+                3307587432,
+                1149664821,
+                1103617851
+            ]
+        },
+        "Data2 Snowmobile #1 Information": {
+            "Helicopter Number": 8,
+            "Helicopter Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3286731588,
+            "Y Coordinates": 1132273533,
+            "Z Coordinates": 1100531892,
+            "X/Y/Z Coordinates": [
+                3286731588,
+                1132273533,
+                1100531892
+            ]
+        },
+        "Data2 Snowmobile #2 Information": {
+            "Helicopter Number": 9,
+            "Helicopter Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301846327,
+            "Y Coordinates": 1155878887,
+            "Z Coordinates": 1106363023,
+            "X/Y/Z Coordinates": [
+                3301846327,
+                1155878887,
+                1106363023
+            ]
+        },
+        "Data2 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data2 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data2 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data2 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        },
+        "Data2 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Duplicated": 0
+        }
+    }
+]
