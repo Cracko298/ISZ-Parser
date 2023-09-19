@@ -23,7 +23,7 @@
 ## Planned Updates:
 - Get Full Inventory Information. - **14% Completed.**
 - Get Vehicle Stats & Coordinates. - **72% Completed.**
-- Convert JSON Data back into ISZ-3DS Save-Data. **(Adding Backend Code).**
+- Convert JSON Data back into ISZ-3DS Save-Data. **5% Completed.**
 
 
 ## Building:
