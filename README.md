@@ -30,7 +30,7 @@
 ## Building:
 ### Python Script:
 ```
-> pyinstaller -F --strip --exclude-module numpy --exclude-module opencv --exclude-module cv2 --onefile "isz-parse.py" --icon="icon.ico"
+> pyinstaller -F --strip --exclude-module numpy --exclude-module opencv --exclude-module cv2 --onefile "isz-parse.py" --icon="favicon.ico"
 ```
 ### C++ Code:
 ```
