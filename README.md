@@ -270,6 +270,6 @@ cloth_dict = {
     10: "Hacked",
     11: "Hacked",
     12: "Hacked",
-    13: "Hacked", 
+    13: "Hacked"
 }
 ```
