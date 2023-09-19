@@ -2,7 +2,6 @@
 - Parses Ice station Z Save-Data into The *.json Human Readable & Widely Used Data Format.
 - Allows for Hundreads of Programming Languages and Game Engines to Ensure Compatibility with ISZ-3DS.
 - Easy Edits to and From ISZ-3DS Save-Data (Planned Feature Soon **Version v8 Plan**).
-- Basic Functionality Available as of **09/10/2023**.
 
 # Downloads:
 - Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp) **(Not Kept Upto-Date)**.
@@ -22,9 +21,9 @@
 ![2023-09-10 15-31-24](https://github.com/Cracko298/ISZ-Parser/assets/78656905/cecb0196-5454-4745-9d65-5a40461d2048)
 
 ## Planned Updates:
-- Get Full Inventory Information. - **0% Completed.**
-- Get Vehicle Stats & Coordinates. - **15% Completed.**
-- Convert JSON Data back into ISZ-3DS Save-Data.
+- Get Full Inventory Information. - **14% Completed.**
+- Get Vehicle Stats & Coordinates. - **72% Completed.**
+- Convert JSON Data back into ISZ-3DS Save-Data. **(Adding Backend Code).**
 
 
 ## Building:
