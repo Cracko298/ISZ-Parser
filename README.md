@@ -21,9 +21,9 @@
 ![2023-09-10 15-31-24](https://github.com/Cracko298/ISZ-Parser/assets/78656905/cecb0196-5454-4745-9d65-5a40461d2048)
 
 ## Planned Updates:
-- Get Full Inventory Information. - **14% Completed.**
-- Get Vehicle Stats & Coordinates. - **72% Completed.**
-- Convert JSON Data back into ISZ-3DS Save-Data. **5% Completed.**
+- Get Full Inventory Information. - **16% Completed.**
+- Get Vehicle Stats & Coordinates. - **88% Completed.**
+- Convert JSON Data back into ISZ-3DS Save-Data. **7% Completed.**
 
 
 ## Building:
