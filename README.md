@@ -5,8 +5,8 @@
 
 # Downloads:
 - Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp) **(Not Kept Upto-Date)**.
-- Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v5/isz-parse.py).
-- Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v5/isz-parse.exe).
+- Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v6/isz-parse.py).
+- Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v6/isz-parse.exe).
 
 ## Usage:
 - Drag and drop Decrypted ISZ-3DS Save-Files.
