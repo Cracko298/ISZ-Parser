@@ -5,8 +5,8 @@
 
 # Downloads:
 - Download C++ Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v1/isz-parse.cpp) **(Not Kept Upto-Date)**.
-- Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v6/isz-parse.py).
-- Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v6/isz-parse.exe).
+- Download Python Source [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v7/isz-parse.py).
+- Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v7/isz-parse.exe).
 
 ## Usage:
 - Drag and drop Decrypted ISZ-3DS Save-Files.
@@ -22,7 +22,7 @@
 
 ## Planned Updates:
 - Get Full Inventory Information. - **16% Completed.**
-- Get Vehicle Stats & Coordinates. - **88% Completed.**
+- Get Vehicle Stats & Coordinates. - **100% Completed (Finished).**
 - Convert JSON Data back into ISZ-3DS Save-Data. **7% Completed.**
 
 
