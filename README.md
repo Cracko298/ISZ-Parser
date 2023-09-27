@@ -9,7 +9,7 @@
 - Download Compiled Executable [Here](https://github.com/Cracko298/ISZ-Parser/releases/download/v7/isz-parse.exe).
 
 ## Usage:
-- Drag and drop Decrypted ISZ-3DS Save-Files.
+- Drag and drop Decrypted ISZ-3DS SaveGames.
 - Double click the .py or compiled .exe File.
 - Generates Information based on your Provided Save-Files.
 
