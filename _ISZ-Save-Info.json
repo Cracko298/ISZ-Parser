@@ -1,0 +1,1103 @@
+[
+    {
+        "Data0 File Information": {
+            "Header Length": 32,
+            "SaveGame Length": 29647,
+            "Header + SaveGame Length": 29679,
+            "Estimated File Size": "28.983kb",
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 976540855,
+            "Converted Time Hash": "11/12 08:20"
+        },
+        "Data0 Player Information": {
+            "Current Health": 215,
+            "Current Hunger": 240,
+            "Current Thirst": 232,
+            "Current Charge": 208,
+            "Days Passed": 2,
+            "Current Day": 3,
+            "Kilometers Traveled": 1,
+            "In-Game Timestamp": 4278194688,
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "Inventory Size": 14,
+            "Backpack Size": 9,
+            "Resistance Data-Type": "Percentage",
+            "Damage Resistance": 0,
+            "Weather Resistance": 0,
+            "X Coordinates": 3301505615,
+            "Y Coordinates": 1155779599,
+            "Z Coordinates": 1106349046,
+            "X/Y/Z Coordinates": [
+                3301505615,
+                1155779599,
+                1106349046
+            ],
+            "Current Temps": 3.9983320236206055,
+            "Inverted Temp": -6.494277338120469e-12
+        },
+        "Data0 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Vechile Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301852340,
+            "Y Coordinates": 1155878658,
+            "Z Coordinates": 1106385568,
+            "X/Y/Z Coordinates": [
+                3301852340,
+                1155878658,
+                1106385568
+            ]
+        },
+        "Data0 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Vechile Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292607594,
+            "Y Coordinates": 1144491802,
+            "Z Coordinates": 1106385043,
+            "X/Y/Z Coordinates": [
+                3292607594,
+                1144491802,
+                1106385043
+            ]
+        },
+        "Data0 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Vechile Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291982987,
+            "Y Coordinates": 1159728759,
+            "Z Coordinates": 1093839880,
+            "X/Y/Z Coordinates": [
+                3291982987,
+                1159728759,
+                1093839880
+            ]
+        },
+        "Data0 Snowcat #1 Information": {
+            "Snowcat Number": 1,
+            "Vechile Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305858949,
+            "Y Coordinates": 1140074971,
+            "Z Coordinates": 1104010543,
+            "X/Y/Z Coordinates": [
+                3305858949,
+                1140074971,
+                1104010543
+            ]
+        },
+        "Data0 Snowcat #2 Information": {
+            "Snowcat Number": 2,
+            "Vechile Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3298397217,
+            "Y Coordinates": 1160437871,
+            "Z Coordinates": 1085645259,
+            "X/Y/Z Coordinates": [
+                3298397217,
+                1160437871,
+                1085645259
+            ]
+        },
+        "Data0 Snowplough #1 Information": {
+            "Snowplough Number": 1,
+            "Vechile Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3307206021,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3307206021,
+                1074790400
+            ]
+        },
+        "Data0 Snowplough #2 Information": {
+            "Snowplough Number": 2,
+            "Vechile Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307581776,
+            "Y Coordinates": 1149755490,
+            "Z Coordinates": 1103877374,
+            "X/Y/Z Coordinates": [
+                3307581776,
+                1149755490,
+                1103877374
+            ]
+        },
+        "Data0 Snowmobile #1 Information": {
+            "Snowmobile Number": 1,
+            "Vechile Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3286731588,
+            "Y Coordinates": 1132273533,
+            "Z Coordinates": 1100531892,
+            "X/Y/Z Coordinates": [
+                3286731588,
+                1132273533,
+                1100531892
+            ]
+        },
+        "Data0 Snowmobile #2 Information": {
+            "Snowmobile Number": 2,
+            "Vechile Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301846327,
+            "Y Coordinates": 1155878887,
+            "Z Coordinates": 1106363023,
+            "X/Y/Z Coordinates": [
+                3301846327,
+                1155878887,
+                1106363023
+            ]
+        },
+        "Data0 Dogsled #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "3-Lost-Cabins Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291987820,
+            "Y Coordinates": 1156412473,
+            "Z Coordinates": 1124197663,
+            "X/Y/Z Coordinates": [
+                3291987820,
+                1156412473,
+                1124197663
+            ]
+        },
+        "Data0 Dogsled #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Lighthouse Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297294852,
+            "Y Coordinates": 1152355648,
+            "Z Coordinates": 1115614347,
+            "X/Y/Z Coordinates": [
+                3297294852,
+                1152355648,
+                1115614347
+            ]
+        },
+        "Data0 Boat #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "Lighthouse Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297284743,
+            "Y Coordinates": 1152382476,
+            "Z Coordinates": 1115716583,
+            "X/Y/Z Coordinates": [
+                3297284743,
+                1152382476,
+                1115716583
+            ]
+        },
+        "Data0 Boat #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Island Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3272925643,
+            "Y Coordinates": 1123701490,
+            "Z Coordinates": 1077936128,
+            "X/Y/Z Coordinates": [
+                3272925643,
+                1123701490,
+                1077936128
+            ]
+        },
+        "Data0 Boat #3 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Submarine Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305973518,
+            "Y Coordinates": 1139901726,
+            "Z Coordinates": 1103827042,
+            "X/Y/Z Coordinates": [
+                3305973518,
+                1139901726,
+                1103827042
+            ]
+        },
+        "Data0 Boat #4 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Big-Red-Ship Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305582494,
+            "Y Coordinates": 1159962440,
+            "Z Coordinates": 1095495582,
+            "X/Y/Z Coordinates": [
+                3305582494,
+                1159962440,
+                1095495582
+            ]
+        },
+        "Data0 Boat #5 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Oil-Rig Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291970486,
+            "Y Coordinates": 1159628263,
+            "Z Coordinates": 1093922718,
+            "X/Y/Z Coordinates": [
+                3291970486,
+                1159628263,
+                1093922718
+            ]
+        },
+        "Data0 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": null,
+            "Item Type": "Invalid Item ID.",
+            "Durability": 490,
+            "Amount": 1
+        },
+        "Data0 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Tent",
+            "Item Type": "Miscellaneous",
+            "Durability": 50,
+            "Amount": 1
+        },
+        "Data0 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Tranquilizer Gun",
+            "Item Type": "Weapon",
+            "Durability": 95,
+            "Amount": 9
+        },
+        "Data0 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Arctic Handgun",
+            "Item Type": "Weapon",
+            "Durability": 200,
+            "Amount": 1
+        },
+        "Data0 Slot #6 Information": {
+            "Slot Number": 6,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #7 Information": {
+            "Slot Number": 7,
+            "Item Name": "Rifle Ammo",
+            "Item Type": "Ammunition",
+            "Durability": 100,
+            "Amount": 10
+        },
+        "Data0 Slot #8 Information": {
+            "Slot Number": 8,
+            "Item Name": "Military Jacket",
+            "Item Type": "Clothing",
+            "Durability": 100,
+            "Amount": 1
+        },
+        "Data0 Slot #9 Information": {
+            "Slot Number": 9,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #10 Information": {
+            "Slot Number": 10,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #11 Information": {
+            "Slot Number": 11,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #12 Information": {
+            "Slot Number": 12,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #13 Information": {
+            "Slot Number": 13,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data0 Slot #14 Information": {
+            "Slot Number": 14,
+            "Item Name": "Hunting Knife",
+            "Item Type": "Weapon",
+            "Durability": 300,
+            "Amount": 254
+        }
+    },
+    {
+        "Data1 File Information": {
+            "Header Length": 32,
+            "SaveGame Length": 17327,
+            "Header + SaveGame Length": 17359,
+            "Estimated File Size": "16.952kb",
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 2524686502,
+            "Converted Time Hash": "01/01 16:48"
+        },
+        "Data1 Player Information": {
+            "Current Health": 100,
+            "Current Hunger": 100,
+            "Current Thirst": 100,
+            "Current Charge": 99,
+            "Days Passed": 9001,
+            "Current Day": 9002,
+            "Kilometers Traveled": 1000000000,
+            "In-Game Timestamp": 1083768578,
+            "Wearing Jacket": "Defualt Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Defualt Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "Inventory Size": 14,
+            "Backpack Size": 9,
+            "Resistance Data-Type": "Percentage",
+            "Damage Resistance": 0,
+            "Weather Resistance": 0,
+            "X Coordinates": 3299108864,
+            "Y Coordinates": 1151819858,
+            "Z Coordinates": 1117356568,
+            "X/Y/Z Coordinates": [
+                3299108864,
+                1151819858,
+                1117356568
+            ],
+            "Current Temps": 3.2066752910614014,
+            "Inverted Temp": 6.618768033650468e-13
+        },
+        "Data1 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Vechile Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301138498,
+            "Y Coordinates": 1156037730,
+            "Z Coordinates": 1106475745,
+            "X/Y/Z Coordinates": [
+                3301138498,
+                1156037730,
+                1106475745
+            ]
+        },
+        "Data1 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Vechile Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292767928,
+            "Y Coordinates": 1145326830,
+            "Z Coordinates": 1106378752,
+            "X/Y/Z Coordinates": [
+                3292767928,
+                1145326830,
+                1106378752
+            ]
+        },
+        "Data1 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Vechile Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291982987,
+            "Y Coordinates": 1159728759,
+            "Z Coordinates": 1093839880,
+            "X/Y/Z Coordinates": [
+                3291982987,
+                1159728759,
+                1093839880
+            ]
+        },
+        "Data1 Snowcat #1 Information": {
+            "Snowcat Number": 1,
+            "Vechile Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305819918,
+            "Y Coordinates": 1140278952,
+            "Z Coordinates": 1103618900,
+            "X/Y/Z Coordinates": [
+                3305819918,
+                1140278952,
+                1103618900
+            ]
+        },
+        "Data1 Snowcat #2 Information": {
+            "Snowcat Number": 2,
+            "Vechile Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3298329887,
+            "Y Coordinates": 1160455262,
+            "Z Coordinates": 1084143698,
+            "X/Y/Z Coordinates": [
+                3298329887,
+                1160455262,
+                1084143698
+            ]
+        },
+        "Data1 Snowplough #1 Information": {
+            "Snowplough Number": 1,
+            "Vechile Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3307587432,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3307587432,
+                1074790400
+            ]
+        },
+        "Data1 Snowplough #2 Information": {
+            "Snowplough Number": 2,
+            "Vechile Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307587359,
+            "Y Coordinates": 1149617160,
+            "Z Coordinates": 1103920366,
+            "X/Y/Z Coordinates": [
+                3307587359,
+                1149617160,
+                1103920366
+            ]
+        },
+        "Data1 Snowmobile #1 Information": {
+            "Snowmobile Number": 1,
+            "Vechile Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3285276557,
+            "Y Coordinates": 1131781292,
+            "Z Coordinates": 1100328993,
+            "X/Y/Z Coordinates": [
+                3285276557,
+                1131781292,
+                1100328993
+            ]
+        },
+        "Data1 Snowmobile #2 Information": {
+            "Snowmobile Number": 2,
+            "Vechile Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301883175,
+            "Y Coordinates": 1155980935,
+            "Z Coordinates": 1106714821,
+            "X/Y/Z Coordinates": [
+                3301883175,
+                1155980935,
+                1106714821
+            ]
+        },
+        "Data1 Dogsled #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "3-Lost-Cabins Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292024095,
+            "Y Coordinates": 1157084979,
+            "Z Coordinates": 1124292559,
+            "X/Y/Z Coordinates": [
+                3292024095,
+                1157084979,
+                1124292559
+            ]
+        },
+        "Data1 Dogsled #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Lighthouse Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297023418,
+            "Y Coordinates": 1152444195,
+            "Z Coordinates": 1116063924,
+            "X/Y/Z Coordinates": [
+                3297023418,
+                1152444195,
+                1116063924
+            ]
+        },
+        "Data1 Boat #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "Lighthouse Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3296866288,
+            "Y Coordinates": 1152461398,
+            "Z Coordinates": 1116239167,
+            "X/Y/Z Coordinates": [
+                3296866288,
+                1152461398,
+                1116239167
+            ]
+        },
+        "Data1 Boat #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Island Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3272925643,
+            "Y Coordinates": 1123701490,
+            "Z Coordinates": 1077936128,
+            "X/Y/Z Coordinates": [
+                3272925643,
+                1123701490,
+                1077936128
+            ]
+        },
+        "Data1 Boat #3 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Submarine Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305963614,
+            "Y Coordinates": 1139746013,
+            "Z Coordinates": 1104138469,
+            "X/Y/Z Coordinates": [
+                3305963614,
+                1139746013,
+                1104138469
+            ]
+        },
+        "Data1 Boat #4 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Big-Red-Ship Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305976164,
+            "Y Coordinates": 1159951503,
+            "Z Coordinates": 1098888774,
+            "X/Y/Z Coordinates": [
+                3305976164,
+                1159951503,
+                1098888774
+            ]
+        },
+        "Data1 Boat #5 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Oil-Rig Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291925725,
+            "Y Coordinates": 1159637807,
+            "Z Coordinates": 1093922718,
+            "X/Y/Z Coordinates": [
+                3291925725,
+                1159637807,
+                1093922718
+            ]
+        },
+        "Data1 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #6 Information": {
+            "Slot Number": 6,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #7 Information": {
+            "Slot Number": 7,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #8 Information": {
+            "Slot Number": 8,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #9 Information": {
+            "Slot Number": 9,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #10 Information": {
+            "Slot Number": 10,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #11 Information": {
+            "Slot Number": 11,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #12 Information": {
+            "Slot Number": 12,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #13 Information": {
+            "Slot Number": 13,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data1 Slot #14 Information": {
+            "Slot Number": 14,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        }
+    },
+    {
+        "Data2 File Information": {
+            "Header Length": 32,
+            "SaveGame Length": 29647,
+            "Header + SaveGame Length": 29679,
+            "Estimated File Size": "28.983kb",
+            "Game Opened": true,
+            "Level Saved": true,
+            "Four-Byte Time Hash": 1302141361,
+            "Converted Time Hash": "05/04 21:56"
+        },
+        "Data2 Player Information": {
+            "Current Health": 255,
+            "Current Hunger": 254,
+            "Current Thirst": 253,
+            "Current Charge": 250,
+            "Days Passed": 2,
+            "Current Day": 3,
+            "Kilometers Traveled": 1,
+            "In-Game Timestamp": 4278194688,
+            "Wearing Jacket": "Kevlar Jacket",
+            "Wearing Backpack": "Defualt Backpack",
+            "Wearing Trouser": "Defualt Trouser",
+            "Wearing Outfit": [
+                "Kevlar Jacket",
+                "Defualt Backpack",
+                "Defualt Trouser"
+            ],
+            "Inventory Size": 14,
+            "Backpack Size": 9,
+            "Resistance Data-Type": "Percentage",
+            "Damage Resistance": 5,
+            "Weather Resistance": 0,
+            "X Coordinates": 3301598538,
+            "Y Coordinates": 1155782845,
+            "Z Coordinates": 1106349053,
+            "X/Y/Z Coordinates": [
+                3301598538,
+                1155782845,
+                1106349053
+            ],
+            "Current Temps": 9999.0,
+            "Inverted Temp": 5.520272367764256e-39
+        },
+        "Data2 Heli #1 Information": {
+            "Helicopter Number": 1,
+            "Vechile Name": "Greybase Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301852340,
+            "Y Coordinates": 1155878658,
+            "Z Coordinates": 1106385568,
+            "X/Y/Z Coordinates": [
+                3301852340,
+                1155878658,
+                1106385568
+            ]
+        },
+        "Data2 Heli #2 Information": {
+            "Helicopter Number": 2,
+            "Vechile Name": "3-Red-Houses Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3292607594,
+            "Y Coordinates": 1144491802,
+            "Z Coordinates": 1106385043,
+            "X/Y/Z Coordinates": [
+                3292607594,
+                1144491802,
+                1106385043
+            ]
+        },
+        "Data2 Heli #3 Information": {
+            "Helicopter Number": 3,
+            "Vechile Name": "Oil-Rig Helicopter",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291982987,
+            "Y Coordinates": 1159728759,
+            "Z Coordinates": 1093839880,
+            "X/Y/Z Coordinates": [
+                3291982987,
+                1159728759,
+                1093839880
+            ]
+        },
+        "Data2 Snowcat #1 Information": {
+            "Snowcat Number": 1,
+            "Vechile Name": "Submarine Cabins Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305858949,
+            "Y Coordinates": 1140074971,
+            "Z Coordinates": 1104010543,
+            "X/Y/Z Coordinates": [
+                3305858949,
+                1140074971,
+                1104010543
+            ]
+        },
+        "Data2 Snowcat #2 Information": {
+            "Snowcat Number": 2,
+            "Vechile Name": "Lost Research Cabin Snowcat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3298397217,
+            "Y Coordinates": 1160437871,
+            "Z Coordinates": 1085645259,
+            "X/Y/Z Coordinates": [
+                3298397217,
+                1160437871,
+                1085645259
+            ]
+        },
+        "Data2 Snowplough #1 Information": {
+            "Snowplough Number": 1,
+            "Vechile Name": "Church Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": null,
+            "Y Coordinates": 3307206021,
+            "Z Coordinates": 1074790400,
+            "X/Y/Z Coordinates": [
+                null,
+                3307206021,
+                1074790400
+            ]
+        },
+        "Data2 Snowplough #2 Information": {
+            "Snowplough Number": 2,
+            "Vechile Name": "Lost Campsite Snowplough",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3307581776,
+            "Y Coordinates": 1149755490,
+            "Z Coordinates": 1103877374,
+            "X/Y/Z Coordinates": [
+                3307581776,
+                1149755490,
+                1103877374
+            ]
+        },
+        "Data2 Snowmobile #1 Information": {
+            "Snowmobile Number": 1,
+            "Vechile Name": "Island Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3286731588,
+            "Y Coordinates": 1132273533,
+            "Z Coordinates": 1100531892,
+            "X/Y/Z Coordinates": [
+                3286731588,
+                1132273533,
+                1100531892
+            ]
+        },
+        "Data2 Snowmobile #2 Information": {
+            "Snowmobile Number": 2,
+            "Vechile Name": "Lost Cabin Snowmobile",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3301846327,
+            "Y Coordinates": 1155878887,
+            "Z Coordinates": 1106363023,
+            "X/Y/Z Coordinates": [
+                3301846327,
+                1155878887,
+                1106363023
+            ]
+        },
+        "Data2 Dogsled #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "3-Lost-Cabins Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291987820,
+            "Y Coordinates": 1156412473,
+            "Z Coordinates": 1124197663,
+            "X/Y/Z Coordinates": [
+                3291987820,
+                1156412473,
+                1124197663
+            ]
+        },
+        "Data2 Dogsled #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Lighthouse Dogsled",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297294852,
+            "Y Coordinates": 1152355648,
+            "Z Coordinates": 1115614347,
+            "X/Y/Z Coordinates": [
+                3297294852,
+                1152355648,
+                1115614347
+            ]
+        },
+        "Data2 Boat #1 Information": {
+            "Dogsled Number": 1,
+            "Vechile Name": "Lighthouse Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3297284743,
+            "Y Coordinates": 1152382476,
+            "Z Coordinates": 1115716583,
+            "X/Y/Z Coordinates": [
+                3297284743,
+                1152382476,
+                1115716583
+            ]
+        },
+        "Data2 Boat #2 Information": {
+            "Dogsled Number": 2,
+            "Vechile Name": "Island Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3272925643,
+            "Y Coordinates": 1123701490,
+            "Z Coordinates": 1077936128,
+            "X/Y/Z Coordinates": [
+                3272925643,
+                1123701490,
+                1077936128
+            ]
+        },
+        "Data2 Boat #3 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Submarine Cabin Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305973518,
+            "Y Coordinates": 1139901726,
+            "Z Coordinates": 1103827042,
+            "X/Y/Z Coordinates": [
+                3305973518,
+                1139901726,
+                1103827042
+            ]
+        },
+        "Data2 Boat #4 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Big-Red-Ship Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3305582494,
+            "Y Coordinates": 1159962440,
+            "Z Coordinates": 1095495582,
+            "X/Y/Z Coordinates": [
+                3305582494,
+                1159962440,
+                1095495582
+            ]
+        },
+        "Data2 Boat #5 Information": {
+            "Dogsled Number": 3,
+            "Vechile Name": "Oil-Rig Boat",
+            "Vehicle Hex ID": "0x10, 0x40",
+            "Vehicle Int ID": 4160,
+            "X Coordinates": 3291970486,
+            "Y Coordinates": 1159628263,
+            "Z Coordinates": 1093922718,
+            "X/Y/Z Coordinates": [
+                3291970486,
+                1159628263,
+                1093922718
+            ]
+        },
+        "Data2 Slot #1 Information": {
+            "Slot Number": 1,
+            "Item Name": "Engine Part",
+            "Item Type": "Miscellaneous",
+            "Durability": 490,
+            "Amount": 1
+        },
+        "Data2 Slot #2 Information": {
+            "Slot Number": 2,
+            "Item Name": "Tent",
+            "Item Type": "Miscellaneous",
+            "Durability": 50,
+            "Amount": 1
+        },
+        "Data2 Slot #3 Information": {
+            "Slot Number": 3,
+            "Item Name": "Tranquilizer Ammo",
+            "Item Type": "Ammunition",
+            "Durability": 100,
+            "Amount": 1
+        },
+        "Data2 Slot #4 Information": {
+            "Slot Number": 4,
+            "Item Name": "Tranquilizer Gun",
+            "Item Type": "Weapon",
+            "Durability": 96,
+            "Amount": 9
+        },
+        "Data2 Slot #5 Information": {
+            "Slot Number": 5,
+            "Item Name": "Arctic Handgun",
+            "Item Type": "Weapon",
+            "Durability": 200,
+            "Amount": 1
+        },
+        "Data2 Slot #6 Information": {
+            "Slot Number": 6,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #7 Information": {
+            "Slot Number": 7,
+            "Item Name": "Rifle Ammo",
+            "Item Type": "Ammunition",
+            "Durability": 100,
+            "Amount": 10
+        },
+        "Data2 Slot #8 Information": {
+            "Slot Number": 8,
+            "Item Name": "Military Jacket",
+            "Item Type": "Clothing",
+            "Durability": 100,
+            "Amount": 1
+        },
+        "Data2 Slot #9 Information": {
+            "Slot Number": 9,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #10 Information": {
+            "Slot Number": 10,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #11 Information": {
+            "Slot Number": 11,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #12 Information": {
+            "Slot Number": 12,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #13 Information": {
+            "Slot Number": 13,
+            "Item Name": "Empty",
+            "Item Type": null,
+            "Durability": 100,
+            "Amount": 0
+        },
+        "Data2 Slot #14 Information": {
+            "Slot Number": 14,
+            "Item Name": "Hunting Knife",
+            "Item Type": "Weapon",
+            "Durability": 300,
+            "Amount": 254
+        }
+    }
+]
