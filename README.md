@@ -10,8 +10,8 @@
 
 ## Usage:
 - Drag and drop Decrypted ISZ-3DS SaveGames.
-- Double click the .py or compiled .exe File.
-- Generates Information based on your Provided Save-Files.
+- Double click the `*.py` or compiled `*.exe` File.
+- Generates Information based on your Provided SaveGame Files.
 
 ## Features:
 - Take Save-Data & Turn it Into JSON.
@@ -20,12 +20,19 @@
 
 ![2023-09-10 15-31-24](https://github.com/Cracko298/ISZ-Parser/assets/78656905/cecb0196-5454-4745-9d65-5a40461d2048)
 
-## Planned Updates:
-- Get Full Inventory Information. - **100% Completed (Finished).**
-- Get Vehicle Stats & Coordinates. - **100% Completed (Finished).**
-- Get Header Information. - **100% Completed (Finished).**
-- Convert JSON Data back into ISZ-3DS Save-Data. **7% Completed.**
+## Roadmap:
+```
+1. Convert back into ISZ-3DS SaveGames/Save-Data.
+2. Decrypt and Encrypt DISA Formatted (aka Legit Current/Backup) ISZ-3DS SaveGames/Save-Data.
+```
 
+## Implimented Features:
+```
+Base Player Information, Fitness and Coordinates       -     75% Completed (Almost Finished).
+Inventory and Apparell Information                     -    100% Completed (Finished).
+Vehicle Stats, names and Coordinates/Information       -    100% Completed (Finished).
+Header Information and Timestamps                      -    100% Completed (Finished).
+```
 
 ## Building:
 ### Python Script:
